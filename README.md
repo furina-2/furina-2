@@ -78,5 +78,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   <br/><br/>
-  <em>From <a href="https://github.com/furina-2">furina-2</a></em>
 </div>
