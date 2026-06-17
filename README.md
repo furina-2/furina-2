@@ -55,19 +55,11 @@
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furina-2&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/furina-2/furina-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=furina-2&repo=furina-2&theme=tokyonight&border_radius=10" />
+  <a href="https://github.com/furina-2/game-codes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=furina-2&repo=game-codes&theme=tokyonight&border_radius=10" />
   </a>
 </div>
 
