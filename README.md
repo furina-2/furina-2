@@ -47,9 +47,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furina-2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furina-2&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furina-2&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
