@@ -12,7 +12,7 @@
 
 ## About Me
 
-19 year old developer, interested in coding and business, and a music enjoyer from Malaysia. I code random stuff (bots, websites), listen to all kinds of music, play Genshin Impact and Wuthering Waves, waste time online, occasionally play chess, and yap with people I know.
+20 year old developer, interested in coding and business, and a music enjoyer from Malaysia. I code random stuff (bots, websites), listen to all kinds of music, play Genshin Impact and Wuthering Waves, waste time online, occasionally play chess, and yap with people I know.
 
 ---
 
